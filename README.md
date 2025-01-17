@@ -3,12 +3,11 @@
 QuickFont is a user font editor in BASIC for the Timex Sinclair 2068 and 
 Sinclair ZX Spectrum.
 
-I originally wrote this on my TS 2068 back in 1985. I typed it into an emulator
-from a listing made on the TS 2040 thermal printer that I kept with lots of 
-other printouts for many years. I then started to fix a few bugs and make
-improvements all these years later.
+Originally written on a TS 2068 back in 1985. More recently typed it into an emulator
+from a listing. A few bugs fixed and
+improvements made years later.
 
---- Ryan Gray
+Forked for conversion into Boriel ZX Basic
 
 ## User Fonts
 
